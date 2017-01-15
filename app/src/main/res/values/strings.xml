@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">3Dot</string>
+    <string-array name="home_tab">
+        <item>推荐</item>
+        <item>关注</item>
+    </string-array>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="Me">我</string>
+    <string name="location_title">猜猜我在哪</string>
+    <string name="watch_count">%1$d人在看</string>
+    <string name="live_start">开始直播</string>
+</resources>

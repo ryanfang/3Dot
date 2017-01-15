@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:padding="15dp">
+
+    <include
+        android:id="@+id/piuFollowers"
+        layout="@layout/main_menu_play_item_unit"/>
+
+    <include
+        android:id="@+id/piusCharm"
+        layout="@layout/main_menu_play_item_unit"/>
+
+    <include
+        android:id="@+id/piuFans"
+        layout="@layout/main_menu_play_item_unit"/>
+
+    <include
+        android:id="@+id/piuConsume"
+        layout="@layout/main_menu_play_item_unit"/>
+
+</LinearLayout>
